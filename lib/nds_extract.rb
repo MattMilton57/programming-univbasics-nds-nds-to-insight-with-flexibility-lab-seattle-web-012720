@@ -33,7 +33,7 @@ end
 
 # Your code after this point
 
-movies_collection=[]
+p movies_collection
 def movies_with_director_key(name, movies_collection)
 
  
