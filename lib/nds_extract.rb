@@ -32,7 +32,7 @@ end
 
 
 # Your code after this point
-pp directors_database
+
 def movies_with_director_key(name, movies_collection)
   result = []
   index = 0
